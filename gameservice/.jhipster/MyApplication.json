@@ -1,0 +1,12 @@
+{
+  "microserviceName": "gameservice",
+  "clientRootFolder": "gameservice",
+  "databaseType": "sql",
+  "fields": [],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "MyApplication",
+  "changelogDate": "20230130135704"
+}

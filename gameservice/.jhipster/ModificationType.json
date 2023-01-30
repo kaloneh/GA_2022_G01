@@ -1,0 +1,18 @@
+{
+  "microserviceName": "gameservice",
+  "clientRootFolder": "gameservice",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "type",
+      "fieldType": "EnumModType",
+      "fieldValues": "NONE,TRANLATION,ROTATION,RENDER"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "ModificationType",
+  "changelogDate": "20230130134536"
+}

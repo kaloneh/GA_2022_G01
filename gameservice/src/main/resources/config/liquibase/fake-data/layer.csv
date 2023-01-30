@@ -1,0 +1,11 @@
+id;x;y;buffer;buffer_content_type;is_enabled
+1;49780;81066;../fake-data/blob/hipster.png;image/png;true
+2;85391;36422;../fake-data/blob/hipster.png;image/png;true
+3;94159;83278;../fake-data/blob/hipster.png;image/png;true
+4;78198;37355;../fake-data/blob/hipster.png;image/png;true
+5;37433;52515;../fake-data/blob/hipster.png;image/png;false
+6;5166;12724;../fake-data/blob/hipster.png;image/png;false
+7;46106;62169;../fake-data/blob/hipster.png;image/png;false
+8;70279;98584;../fake-data/blob/hipster.png;image/png;true
+9;43962;34063;../fake-data/blob/hipster.png;image/png;true
+10;75578;62497;../fake-data/blob/hipster.png;image/png;true

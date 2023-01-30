@@ -1,0 +1,31 @@
+{
+  "microservicePath": "E:\\Application\\app\\Game\\jhipster\\gameservice",
+  "microserviceName": "gameservice",
+  "clientRootFolder": "gameservice",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "x",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "y",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "bitmap",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    },
+    {
+      "fieldName": "isEnabled",
+      "fieldType": "Boolean"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "GameObject",
+  "changelogDate": "20230130135613"
+}

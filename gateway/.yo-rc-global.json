@@ -1,0 +1,9 @@
+{
+  "generator-jhipster:7.2.0": {
+    "promptValues": {
+      "packageName": "ir.ac.iust.comp.sa",
+      "nativeLanguage": "fa",
+      "microservicePath": "E:\\Application\\app\\Game\\jhipster\\gameservice"
+    }
+  }
+}

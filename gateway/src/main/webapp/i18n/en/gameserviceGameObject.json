@@ -1,0 +1,32 @@
+{
+  "iustGatewayApp": {
+    "gameserviceGameObject": {
+      "home": {
+        "title": "Game Objects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Game Object",
+        "createOrEditLabel": "Create or edit a Game Object",
+        "search": "Search for Game Object",
+        "notFound": "No Game Objects found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Game Object {{ id }}?"
+      },
+      "detail": {
+        "title": "Game Object"
+      },
+      "id": "ID",
+      "x": "X",
+      "y": "Y",
+      "bitmap": "Bitmap",
+      "isEnabled": "Is Enabled"
+    }
+  },
+  "gameserviceApp": {
+    "gameserviceGameObject": {
+      "created": "A new Game Object is created with identifier {{ param }}",
+      "updated": "A Game Object is updated with identifier {{ param }}",
+      "deleted": "A Game Object is deleted with identifier {{ param }}"
+    }
+  }
+}

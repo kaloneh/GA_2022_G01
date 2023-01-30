@@ -1,0 +1,26 @@
+{
+  "microserviceName": "gameservice",
+  "clientRootFolder": "gameservice",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "width",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "height",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "screenBuffer",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "Application",
+  "changelogDate": "20230130135419"
+}
